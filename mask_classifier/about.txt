@@ -1,3 +1,7 @@
+The model is not hard coded , instead has been trained with the help of teachable machine by google 
+
+Link : https://teachablemachine.withgoogle.com/
+
 This model classifies whether the person is wearing a mask or not.
 
 It is mask classifier and not Mask detection.
