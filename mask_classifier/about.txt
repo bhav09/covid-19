@@ -8,3 +8,5 @@ It is mask classifier and not Mask detection.
 
 face.zip consists of customly downloaded images which has over 1000 images for each class (make sure you don't overwrite them while copying form child to parent folder).
 
+converted_keras.zip is the pre trained model , which has been trained with 50 epochs and with a learning rate of 1.0^10-3 
+
